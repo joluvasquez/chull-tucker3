@@ -47,3 +47,8 @@ Consulte [metodología, unidades, salidas y limitaciones](docs/metodologia.md).
 Ceulemans, E., & Kiers, H. A. L. (2006). Selecting among three-mode principal component models of different types and complexities: A numerical convex hull based method. *British Journal of Mathematical and Statistical Psychology, 59*, 133–150. [DOI: 10.1348/000711005X64817](https://doi.org/10.1348/000711005X64817).
 
 Este repositorio contiene una implementación en R; no es el software oficial de los autores del artículo.
+
+## Licencia
+
+Este proyecto se distribuye bajo la [licencia MIT](LICENSE).
+Copyright (c) 2026 José Luis Vásquez Pérez.
