@@ -1,0 +1,7 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+Rplots.pdf
+resultados/
+*.tmp

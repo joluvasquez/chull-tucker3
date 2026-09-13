@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Si utiliza esta implementación, cite este software y el artículo metodológico indicado en el README."
+title: "CHull Tucker3 en R"
+type: software
+version: "4.0.0"
+authors:
+  - family-names: "Vásquez Pérez"
+    given-names: "José Luis"
+    orcid: "https://orcid.org/0000-0002-2815-2044"
+repository-code: "https://github.com/joluvasquez/chull-tucker3"
+abstract: "Simulación Monte Carlo de selección de dimensionalidad Tucker3 mediante CHull-fp y CHull-S, con ajustes aproximados por SVD."
+
